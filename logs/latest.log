@@ -1,73 +1,98 @@
-[04:39:03] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[04:39:04] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[04:39:04] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[04:39:04] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[04:39:04] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[04:39:04] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[04:39:04] [ServerMain/INFO]: Reloading ResourceManager: Default
-[04:39:05] [Worker-Main-4/INFO]: Loaded 7 recipes
-[04:39:05] [Worker-Main-4/INFO]: Loaded 1141 advancements
-[04:39:08] [Server thread/INFO]: Starting minecraft server version 1.18
-[04:39:08] [Server thread/INFO]: Loading properties
-[04:39:08] [Server thread/INFO]: Default game type: SURVIVAL
-[04:39:08] [Server thread/INFO]: Generating keypair
-[04:39:09] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:39:09] [Server thread/INFO]: Using epoll channel type
-[04:39:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[04:39:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[04:39:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[04:39:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[04:39:09] [Server thread/INFO]: Preparing level "world"
-[04:39:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[04:39:11] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[04:39:11] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[04:39:11] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[04:39:11] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[04:39:12] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[04:39:12] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[04:39:13] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[04:39:13] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[04:39:14] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[04:39:14] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[04:39:15] [Worker-Main-5/INFO]: Preparing spawn area: 1%
-[04:39:15] [Worker-Main-6/INFO]: Preparing spawn area: 4%
-[04:39:16] [Worker-Main-6/INFO]: Preparing spawn area: 4%
-[04:39:16] [Worker-Main-5/INFO]: Preparing spawn area: 5%
-[04:39:17] [Worker-Main-6/INFO]: Preparing spawn area: 14%
-[04:39:17] [Worker-Main-6/INFO]: Preparing spawn area: 21%
-[04:39:18] [Worker-Main-5/INFO]: Preparing spawn area: 24%
-[04:39:18] [Worker-Main-6/INFO]: Preparing spawn area: 32%
-[04:39:19] [Worker-Main-5/INFO]: Preparing spawn area: 47%
-[04:39:19] [Worker-Main-5/INFO]: Preparing spawn area: 58%
-[04:39:20] [Worker-Main-4/INFO]: Preparing spawn area: 72%
-[04:39:20] [Worker-Main-4/INFO]: Preparing spawn area: 86%
-[04:39:21] [Server thread/INFO]: Time elapsed: 11696 ms
-[04:39:21] [Server thread/INFO]: Done (11.988s)! For help, type "help"
-[04:39:34] [Server thread/INFO]: SongKran_P[/171.97.141.179:25469] logged in with entity id 125 at (849.7319165665009, 71.0, 40.66607409511299)
-[04:39:34] [Server thread/INFO]: SongKran_P joined the game
-[04:39:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3238ms or 64 ticks behind
-[04:39:42] [Server thread/INFO]: BossZa[/115.87.201.25:62526] logged in with entity id 346 at (-559.5339367992315, 65.0, 3.8857564263163136)
-[04:39:42] [Server thread/INFO]: BossZa joined the game
-[04:39:58] [Server thread/INFO]: Bal4ncez[/171.99.154.21:63820] logged in with entity id 551 at (706.8199868879794, 62.07326432130343, 189.8329771348104)
-[04:39:58] [Server thread/INFO]: Bal4ncez joined the game
-[04:43:30] [Server thread/INFO]: SongKran_P lost connection: Disconnected
-[04:43:30] [Server thread/INFO]: SongKran_P left the game
-[04:43:38] [Server thread/INFO]: Saving the game (this may take a moment!)
-[04:43:38] [Server thread/INFO]: Saved the game
-[04:45:29] [Server thread/INFO]: BossZa lost connection: Disconnected
-[04:45:29] [Server thread/INFO]: BossZa left the game
-[04:45:37] [Server thread/INFO]: Bal4ncez lost connection: Disconnected
-[04:45:37] [Server thread/INFO]: Bal4ncez left the game
-[04:45:41] [Server thread/INFO]: Saving the game (this may take a moment!)
-[04:45:41] [Server thread/INFO]: Saved the game
-[04:45:43] [Server thread/INFO]: Stopping the server
-[04:45:43] [Server thread/INFO]: Stopping server
-[04:45:43] [Server thread/INFO]: Saving players
-[04:45:43] [Server thread/INFO]: Saving worlds
-[04:45:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[04:45:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[04:45:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[04:45:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04:45:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:45:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04:45:43] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16:33:17] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:33:18] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:33:18] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:33:18] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:33:18] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:33:18] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:33:18] [ServerMain/INFO]: Reloading ResourceManager: Default
+[16:33:19] [Worker-Main-4/INFO]: Loaded 7 recipes
+[16:33:19] [Worker-Main-4/INFO]: Loaded 1141 advancements
+[16:33:23] [Server thread/INFO]: Starting minecraft server version 1.18
+[16:33:23] [Server thread/INFO]: Loading properties
+[16:33:23] [Server thread/INFO]: Default game type: SURVIVAL
+[16:33:23] [Server thread/INFO]: Generating keypair
+[16:33:23] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:33:23] [Server thread/INFO]: Using epoll channel type
+[16:33:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:33:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:33:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:33:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:33:24] [Server thread/INFO]: Preparing level "world"
+[16:33:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:33:26] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[16:33:26] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[16:33:26] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[16:33:26] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[16:33:26] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[16:33:26] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[16:33:27] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[16:33:27] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[16:33:28] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[16:33:28] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[16:33:29] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[16:33:29] [Worker-Main-4/INFO]: Preparing spawn area: 1%
+[16:33:30] [Worker-Main-4/INFO]: Preparing spawn area: 4%
+[16:33:30] [Worker-Main-5/INFO]: Preparing spawn area: 8%
+[16:33:31] [Worker-Main-4/INFO]: Preparing spawn area: 9%
+[16:33:31] [Worker-Main-4/INFO]: Preparing spawn area: 9%
+[16:33:32] [Worker-Main-6/INFO]: Preparing spawn area: 15%
+[16:33:32] [Worker-Main-4/INFO]: Preparing spawn area: 19%
+[16:33:33] [Worker-Main-5/INFO]: Preparing spawn area: 25%
+[16:33:33] [Worker-Main-4/INFO]: Preparing spawn area: 35%
+[16:33:34] [Worker-Main-4/INFO]: Preparing spawn area: 49%
+[16:33:34] [Worker-Main-4/INFO]: Preparing spawn area: 52%
+[16:33:35] [Worker-Main-4/INFO]: Preparing spawn area: 68%
+[16:33:35] [Worker-Main-4/INFO]: Preparing spawn area: 84%
+[16:33:36] [Server thread/INFO]: Time elapsed: 12669 ms
+[16:33:36] [Server thread/INFO]: Done (12.858s)! For help, type "help"
+[16:33:44] [Server thread/INFO]: SongKran_P[/171.97.141.179:36179] logged in with entity id 139 at (834.3144469296972, 71.0, 64.06747249678016)
+[16:33:44] [Server thread/INFO]: SongKran_P joined the game
+[16:33:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3922ms or 78 ticks behind
+[16:33:57] [Server thread/INFO]: MeMeow[/110.169.128.182:60518] logged in with entity id 406 at (-683.3000000119209, 60.5653740009447, 51.69999998807907)
+[16:33:57] [Server thread/INFO]: MeMeow joined the game
+[16:33:59] [Server thread/INFO]: BossZa[/115.87.201.25:59740] logged in with entity id 416 at (-688.3925314006246, 62.0, 49.946062869162496)
+[16:34:00] [Server thread/INFO]: BossZa joined the game
+[16:34:02] [Server thread/INFO]: tslop[/49.228.69.28:16142] logged in with entity id 595 at (-692.5288327634559, 58.0, 41.22741310156115)
+[16:34:02] [Server thread/INFO]: tslop joined the game
+[16:34:03] [Server thread/INFO]: ZeNosAyumu[/171.6.0.15:64524] logged in with entity id 610 at (-533.5545760231728, 86.0, 128.57585710449194)
+[16:34:03] [Server thread/INFO]: ZeNosAyumu joined the game
+[16:34:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5386ms or 107 ticks behind
+[16:34:15] [Server thread/INFO]: Bal4ncez[/171.99.154.21:34403] logged in with entity id 695 at (672.696100807199, 64.0, 258.5993060006628)
+[16:34:15] [Server thread/INFO]: Bal4ncez joined the game
+[16:34:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[16:34:43] [Server thread/INFO]: wwaans[/58.8.249.233:55443] logged in with entity id 1021 at (-532.9262923651365, 63.0, -12.845833281516748)
+[16:34:43] [Server thread/INFO]: wwaans joined the game
+[16:34:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5567ms or 111 ticks behind
+[16:35:07] [Server thread/INFO]: [SongKran_P: Saved the game]
+[16:48:33] [Server thread/INFO]: BossZa was shot by Skeleton
+[16:55:41] [Server thread/INFO]: ZeNosAyumu lost connection: Disconnected
+[16:55:41] [Server thread/INFO]: ZeNosAyumu left the game
+[16:55:47] [Server thread/INFO]: [SongKran_P: Saved the game]
+[16:55:48] [Server thread/INFO]: BossZa lost connection: Timed out
+[16:55:48] [Server thread/INFO]: BossZa left the game
+[16:55:48] [Server thread/WARN]: handleDisconnection() called twice
+[16:55:52] [Server thread/INFO]: [SongKran_P: Saved the game]
+[16:55:53] [Server thread/INFO]: tslop lost connection: Disconnected
+[16:55:53] [Server thread/INFO]: tslop left the game
+[16:55:53] [Server thread/INFO]: wwaans lost connection: Disconnected
+[16:55:53] [Server thread/INFO]: wwaans left the game
+[16:55:56] [Server thread/INFO]: MeMeow lost connection: Disconnected
+[16:55:56] [Server thread/INFO]: MeMeow left the game
+[16:56:19] [Server thread/INFO]: BossZa[/115.87.199.184:34660] logged in with entity id 17702 at (-778.3655984424626, -17.50479912299409, 345.69225637186844)
+[16:56:19] [Server thread/INFO]: BossZa joined the game
+[16:58:08] [Server thread/INFO]: BossZa lost connection: Disconnected
+[16:58:08] [Server thread/INFO]: BossZa left the game
+[16:59:29] [Server thread/INFO]: Bal4ncez lost connection: Disconnected
+[16:59:29] [Server thread/INFO]: Bal4ncez left the game
+[17:00:05] [Server thread/INFO]: [SongKran_P: Saved the game]
+[17:00:08] [Server thread/INFO]: [SongKran_P: Stopping the server]
+[17:00:08] [Server thread/INFO]: Stopping server
+[17:00:08] [Server thread/INFO]: Saving players
+[17:00:08] [Server thread/INFO]: Saving worlds
+[17:00:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:00:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17:00:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17:00:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:00:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:00:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:00:09] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

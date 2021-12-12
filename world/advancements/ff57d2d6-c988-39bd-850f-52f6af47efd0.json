@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2021-12-12 12:38:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2021-12-09 13:44:49 +0000"
@@ -158,6 +164,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2021-12-10 16:05:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2021-12-12 11:01:34 +0000"
     },
     "done": true
   },
@@ -257,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2021-12-12 10:50:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2021-12-10 11:41:39 +0000"
@@ -305,6 +323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2021-12-12 15:01:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2021-12-10 11:53:16 +0000"
@@ -350,6 +374,12 @@
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2021-12-10 05:00:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2021-12-12 16:37:00 +0000"
     },
     "done": true
   },
@@ -619,6 +649,7 @@
       "minecraft:spider": "2021-12-10 05:03:16 +0000",
       "minecraft:piglin_brute": "2021-12-10 16:58:35 +0000",
       "minecraft:creeper": "2021-12-10 12:48:12 +0000",
+      "minecraft:slime": "2021-12-12 14:34:35 +0000",
       "minecraft:phantom": "2021-12-11 09:59:29 +0000",
       "minecraft:wither_skeleton": "2021-12-10 15:41:05 +0000",
       "minecraft:piglin": "2021-12-10 16:06:16 +0000",
@@ -698,6 +729,18 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2021-12-10 17:40:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2021-12-12 12:38:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2021-12-12 16:08:02 +0000"
     },
     "done": true
   },
@@ -995,6 +1038,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2021-12-12 15:01:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2021-12-09 13:43:03 +0000"
@@ -1049,6 +1098,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2021-12-12 15:01:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2021-12-10 05:02:17 +0000"
@@ -1088,6 +1143,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2021-12-10 05:27:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2021-12-12 10:48:24 +0000"
     },
     "done": true
   },
@@ -1288,6 +1349,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-12-10 12:02:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2021-12-12 10:48:24 +0000"
     },
     "done": true
   },
@@ -1957,6 +2024,9 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:sheep": "2021-12-12 11:06:35 +0000",
+      "minecraft:cow": "2021-12-12 11:06:26 +0000",
+      "minecraft:chicken": "2021-12-12 11:08:36 +0000",
       "minecraft:axolotl": "2021-12-11 09:37:04 +0000"
     },
     "done": false
@@ -2219,6 +2289,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2021-12-12 10:50:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2021-12-11 10:50:16 +0000"
@@ -2309,15 +2385,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/birch_fence": {
-    "criteria": {
-      "has_planks": "2021-12-11 15:49:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2021-12-11 15:41:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2021-12-11 15:49:16 +0000"
     },
     "done": true
   },
@@ -2831,6 +2907,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2021-12-12 15:53:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-12-10 16:04:52 +0000"
@@ -2900,6 +2982,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2021-12-10 05:27:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2021-12-12 12:38:34 +0000"
     },
     "done": true
   },
