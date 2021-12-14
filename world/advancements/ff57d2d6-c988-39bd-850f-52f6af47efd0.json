@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2021-12-13 05:43:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2021-12-09 13:44:49 +0000"
@@ -257,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2021-12-13 06:37:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2021-12-10 13:44:23 +0000"
@@ -278,6 +290,18 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2021-12-10 11:41:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2021-12-13 05:21:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2021-12-13 05:58:02 +0000"
     },
     "done": true
   },
@@ -497,6 +521,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2021-12-13 05:18:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2021-12-11 09:23:40 +0000"
@@ -530,6 +560,12 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2021-12-10 16:04:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2021-12-13 05:58:02 +0000"
     },
     "done": true
   },
@@ -646,6 +682,7 @@
       "minecraft:blaze": "2021-12-10 15:39:45 +0000",
       "minecraft:skeleton": "2021-12-09 14:16:52 +0000",
       "minecraft:hoglin": "2021-12-10 16:06:41 +0000",
+      "minecraft:magma_cube": "2021-12-13 05:43:00 +0000",
       "minecraft:spider": "2021-12-10 05:03:16 +0000",
       "minecraft:piglin_brute": "2021-12-10 16:58:35 +0000",
       "minecraft:creeper": "2021-12-10 12:48:12 +0000",
@@ -840,6 +877,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2021-12-13 04:59:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2021-12-09 13:44:23 +0000"
@@ -909,6 +952,12 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2021-12-11 06:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2021-12-13 12:34:32 +0000"
     },
     "done": true
   },
@@ -1290,6 +1339,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2021-12-13 12:34:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2021-12-09 13:53:46 +0000"
@@ -1484,6 +1539,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2021-12-13 12:40:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "cod": "2021-12-10 13:24:24 +0000"
@@ -1499,6 +1560,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2021-12-10 05:21:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2021-12-13 05:18:15 +0000"
     },
     "done": true
   },
@@ -1590,6 +1657,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2021-12-13 06:37:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2021-12-09 13:53:46 +0000"
@@ -1626,6 +1699,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2021-12-13 06:08:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2021-12-09 13:53:46 +0000"
@@ -1656,6 +1735,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2021-12-13 05:18:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2021-12-11 15:41:55 +0000"
@@ -1671,6 +1756,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2021-12-11 15:49:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2021-12-13 06:08:55 +0000"
     },
     "done": true
   },
@@ -1713,6 +1804,12 @@
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2021-12-10 05:27:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2021-12-13 05:18:15 +0000"
     },
     "done": true
   },
@@ -1836,15 +1933,18 @@
       "cooked_mutton": "2021-12-11 15:24:23 +0000",
       "sweet_berries": "2021-12-09 13:48:43 +0000",
       "cooked_beef": "2021-12-10 16:24:55 +0000",
+      "baked_potato": "2021-12-13 05:52:49 +0000",
       "porkchop": "2021-12-10 16:27:29 +0000",
       "tropical_fish": "2021-12-10 12:00:03 +0000",
       "cooked_cod": "2021-12-10 14:36:56 +0000",
       "bread": "2021-12-11 16:29:17 +0000",
       "rotten_flesh": "2021-12-09 14:11:16 +0000",
       "glow_berries": "2021-12-10 14:05:58 +0000",
+      "cooked_rabbit": "2021-12-13 06:37:26 +0000",
       "cooked_chicken": "2021-12-11 05:38:33 +0000",
       "mushroom_stew": "2021-12-10 04:58:57 +0000",
-      "cooked_salmon": "2021-12-09 14:06:52 +0000"
+      "cooked_salmon": "2021-12-09 14:06:52 +0000",
+      "carrot": "2021-12-13 06:06:32 +0000"
     },
     "done": false
   },
@@ -2259,9 +2359,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2021-12-13 04:59:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2021-12-11 05:50:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2021-12-13 05:21:40 +0000"
     },
     "done": true
   },
@@ -2298,6 +2410,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2021-12-11 10:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2021-12-13 04:59:45 +0000"
     },
     "done": true
   },
@@ -2376,6 +2494,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2021-12-09 13:43:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2021-12-13 11:55:11 +0000"
     },
     "done": true
   },
@@ -2637,6 +2761,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2021-12-13 12:34:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2021-12-09 13:44:23 +0000"
@@ -2727,6 +2857,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2021-12-13 05:58:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2021-12-10 16:32:18 +0000"
@@ -2799,6 +2935,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2021-12-13 05:21:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/loot_bastion": {
     "criteria": {
       "loot_bastion_other": "2021-12-10 16:56:01 +0000"
@@ -2844,6 +2986,12 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2021-12-11 15:49:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2021-12-13 11:55:11 +0000"
     },
     "done": true
   },
@@ -2952,6 +3100,12 @@
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2021-12-10 13:56:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2021-12-13 05:18:15 +0000"
     },
     "done": true
   },
