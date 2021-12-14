@@ -831,6 +831,7 @@
       "minecraft:skeleton": "2021-12-12 10:33:09 +0000",
       "minecraft:spider": "2021-12-12 11:03:51 +0000",
       "minecraft:creeper": "2021-12-13 13:29:27 +0000",
+      "minecraft:phantom": "2021-12-14 16:27:53 +0000",
       "minecraft:cave_spider": "2021-12-12 11:35:26 +0000",
       "minecraft:zombie": "2021-12-12 10:14:43 +0000",
       "minecraft:drowned": "2021-12-13 03:57:35 +0000"
@@ -1587,6 +1588,12 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2021-12-13 11:40:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2021-12-14 13:48:53 +0000"
     },
     "done": true
   },

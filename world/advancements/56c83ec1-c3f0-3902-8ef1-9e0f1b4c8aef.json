@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2021-12-14 12:22:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2021-12-09 11:19:20 +0000"
@@ -80,6 +86,12 @@
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_bricks": "2021-12-10 11:49:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2021-12-14 15:42:06 +0000"
     },
     "done": true
   },
@@ -320,6 +332,12 @@
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2021-12-11 03:03:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2021-12-14 11:59:21 +0000"
     },
     "done": true
   },
@@ -823,6 +841,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2021-12-14 15:42:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2021-12-09 13:22:29 +0000"
@@ -1123,9 +1147,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2021-12-14 15:42:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
     "criteria": {
       "has_diamond_ore": "2021-12-13 03:16:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2021-12-14 12:44:12 +0000"
     },
     "done": true
   },
@@ -1558,17 +1594,21 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2021-12-10 13:46:34 +0000",
+      "minecraft:mushroom_fields": "2021-12-14 13:16:48 +0000",
       "minecraft:taiga": "2021-12-10 13:51:05 +0000",
       "minecraft:deep_ocean": "2021-12-09 14:12:19 +0000",
+      "minecraft:birch_forest": "2021-12-14 12:26:52 +0000",
       "minecraft:wooded_badlands": "2021-12-10 02:51:08 +0000",
       "minecraft:bamboo_jungle": "2021-12-10 03:23:41 +0000",
       "minecraft:badlands": "2021-12-10 02:56:10 +0000",
       "minecraft:beach": "2021-12-09 11:19:40 +0000",
+      "minecraft:dark_forest": "2021-12-14 12:26:23 +0000",
       "minecraft:sparse_jungle": "2021-12-10 02:46:24 +0000",
       "minecraft:river": "2021-12-09 11:19:44 +0000",
       "minecraft:lukewarm_ocean": "2021-12-10 13:23:42 +0000",
       "minecraft:stony_shore": "2021-12-10 03:09:55 +0000",
       "minecraft:dripstone_caves": "2021-12-10 06:40:17 +0000",
+      "minecraft:swamp": "2021-12-14 12:07:52 +0000",
       "minecraft:cold_ocean": "2021-12-09 14:06:44 +0000",
       "minecraft:forest": "2021-12-09 04:25:29 +0000",
       "minecraft:lush_caves": "2021-12-10 06:44:46 +0000",
@@ -1580,6 +1620,7 @@
       "minecraft:ocean": "2021-12-09 11:19:43 +0000",
       "minecraft:jungle": "2021-12-10 02:35:26 +0000",
       "minecraft:old_growth_spruce_taiga": "2021-12-10 13:46:28 +0000",
+      "minecraft:windswept_savanna": "2021-12-14 12:10:44 +0000",
       "minecraft:warm_ocean": "2021-12-10 08:48:56 +0000",
       "minecraft:deep_lukewarm_ocean": "2021-12-11 16:03:35 +0000",
       "minecraft:old_growth_birch_forest": "2021-12-09 14:10:49 +0000",
@@ -1994,6 +2035,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2021-12-14 15:42:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2021-12-10 05:23:43 +0000"
@@ -2192,6 +2239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2021-12-14 15:42:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/terracotta": {
     "criteria": {
       "has_clay_block": "2021-12-10 13:42:45 +0000"
@@ -2225,6 +2278,12 @@
   "minecraft:recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore": {
     "criteria": {
       "has_deepslate_gold_ore": "2021-12-13 03:11:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2021-12-14 16:03:57 +0000"
     },
     "done": true
   },
@@ -2281,6 +2340,8 @@
       "bread": "2021-12-09 13:37:38 +0000",
       "golden_apple": "2021-12-10 15:46:29 +0000",
       "rotten_flesh": "2021-12-10 04:37:05 +0000",
+      "cookie": "2021-12-14 14:25:03 +0000",
+      "suspicious_stew": "2021-12-14 12:48:49 +0000",
       "glow_berries": "2021-12-11 05:46:05 +0000",
       "golden_carrot": "2021-12-10 07:27:31 +0000",
       "cooked_chicken": "2021-12-10 06:04:07 +0000",
@@ -2351,6 +2412,12 @@
   "minecraft:adventure/bullseye": {
     "criteria": {
       "bullseye": "2021-12-13 16:58:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2021-12-14 15:42:06 +0000"
     },
     "done": true
   },
@@ -2492,6 +2559,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2021-12-14 14:54:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2021-12-10 06:00:11 +0000"
@@ -2571,6 +2644,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2021-12-14 16:05:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_glazed_terracotta": {
     "criteria": {
       "has_orange_terracotta": "2021-12-10 04:07:22 +0000"
@@ -2637,6 +2716,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2021-12-14 15:42:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2021-12-09 11:19:44 +0000"
@@ -2700,6 +2785,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2021-12-09 13:49:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2021-12-14 11:59:21 +0000"
     },
     "done": true
   },
@@ -2979,6 +3070,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2021-12-14 15:42:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2021-12-10 02:34:15 +0000"
@@ -3069,6 +3166,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2021-12-14 15:42:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2021-12-09 13:25:26 +0000"
@@ -3084,6 +3187,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2021-12-10 11:49:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2021-12-14 15:42:06 +0000"
     },
     "done": true
   },
@@ -3144,6 +3253,12 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2021-12-10 07:40:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2021-12-14 12:44:12 +0000"
     },
     "done": true
   },
@@ -3315,6 +3430,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2021-12-14 12:44:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2021-12-10 06:00:11 +0000"
@@ -3330,6 +3451,12 @@
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2021-12-10 07:55:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2021-12-14 14:54:18 +0000"
     },
     "done": true
   },
@@ -3672,6 +3799,12 @@
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2021-12-10 13:14:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2021-12-14 13:18:33 +0000"
     },
     "done": true
   },

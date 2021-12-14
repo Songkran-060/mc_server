@@ -1,143 +1,233 @@
-[15:42:42] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[15:42:43] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:42:43] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:42:43] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15:42:43] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15:42:43] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:42:43] [ServerMain/INFO]: Reloading ResourceManager: Default
-[15:42:44] [Worker-Main-4/INFO]: Loaded 7 recipes
-[15:42:44] [Worker-Main-4/INFO]: Loaded 1141 advancements
-[15:42:48] [Server thread/INFO]: Starting minecraft server version 1.18
-[15:42:48] [Server thread/INFO]: Loading properties
-[15:42:48] [Server thread/INFO]: Default game type: SURVIVAL
-[15:42:48] [Server thread/INFO]: Generating keypair
-[15:42:48] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:42:48] [Server thread/INFO]: Using epoll channel type
-[15:42:48] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:42:48] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:42:48] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:42:48] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:42:48] [Server thread/INFO]: Preparing level "world"
-[15:42:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:42:51] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[15:42:51] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[15:42:51] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[15:42:51] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[15:42:51] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[15:42:51] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[15:42:52] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[15:42:52] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[15:42:53] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[15:42:53] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[15:42:54] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[15:42:54] [Worker-Main-6/INFO]: Preparing spawn area: 1%
-[15:42:55] [Worker-Main-4/INFO]: Preparing spawn area: 4%
-[15:42:55] [Worker-Main-5/INFO]: Preparing spawn area: 5%
-[15:42:56] [Worker-Main-6/INFO]: Preparing spawn area: 11%
-[15:42:56] [Worker-Main-4/INFO]: Preparing spawn area: 19%
-[15:42:57] [Worker-Main-6/INFO]: Preparing spawn area: 21%
-[15:42:57] [Worker-Main-4/INFO]: Preparing spawn area: 23%
-[15:42:58] [Worker-Main-4/INFO]: Preparing spawn area: 28%
-[15:42:58] [Worker-Main-4/INFO]: Preparing spawn area: 29%
-[15:42:59] [Worker-Main-6/INFO]: Preparing spawn area: 54%
-[15:42:59] [Worker-Main-6/INFO]: Preparing spawn area: 65%
-[15:43:00] [Worker-Main-5/INFO]: Preparing spawn area: 74%
-[15:43:00] [Worker-Main-4/INFO]: Preparing spawn area: 92%
-[15:43:01] [Server thread/INFO]: Time elapsed: 12610 ms
-[15:43:01] [Server thread/INFO]: Done (12.741s)! For help, type "help"
-[15:43:22] [Server thread/INFO]: wwaans[/58.8.249.233:59021] logged in with entity id 163 at (-1424.1014136397744, 63.0, 166.94027445751868)
-[15:43:22] [Server thread/INFO]: wwaans joined the game
-[15:43:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2106ms or 42 ticks behind
-[15:43:25] [Server thread/INFO]: BossZa[/115.87.199.184:16747] logged in with entity id 181 at (-1423.8558422437036, 63.0, 168.85477411967457)
-[15:43:25] [Server thread/INFO]: BossZa joined the game
-[15:43:47] [Server thread/INFO]: MeMeow[/110.169.128.86:63794] logged in with entity id 317 at (-156.0610566700106, 36.0, 71.19846743545257)
-[15:43:47] [Server thread/INFO]: MeMeow joined the game
-[15:43:59] [Server thread/INFO]: Skeletonbear[/49.49.239.33:53244] logged in with entity id 455 at (-561.3000000119209, 58.0, -12.716836130393782)
-[15:43:59] [Server thread/INFO]: Skeletonbear joined the game
-[15:47:34] [Server thread/INFO]: SongKran_P[/27.145.177.49:14671] logged in with entity id 2793 at (877.6947691077357, 71.0, 47.53087961580442)
-[15:47:34] [Server thread/INFO]: SongKran_P joined the game
-[15:50:21] [Server thread/INFO]: Shadaann[/124.120.9.134:63029] logged in with entity id 5028 at (-527.4836571043529, 64.0, -3.094598439820318)
-[15:50:21] [Server thread/INFO]: Shadaann joined the game
-[15:50:50] [Server thread/INFO]: <Shadaann> yo
-[15:52:16] [Server thread/INFO]: Skeletonbear lost connection: Disconnected
-[15:52:16] [Server thread/INFO]: Skeletonbear left the game
-[15:52:18] [Server thread/INFO]: MeMeow has made the advancement [Fishy Business]
-[15:53:40] [Server thread/INFO]: [SongKran_P: Saved the game]
-[15:53:49] [Server thread/INFO]: [SongKran_P: Set own game mode to Spectator Mode]
-[15:53:56] [Server thread/INFO]: [SongKran_P: Set own game mode to Survival Mode]
-[15:58:45] [Server thread/INFO]: ZeNosAyumu[/171.6.0.15:53218] logged in with entity id 11552 at (-534.5, 86.0, 127.5)
-[15:58:45] [Server thread/INFO]: ZeNosAyumu joined the game
-[15:59:11] [Server thread/WARN]: Boat (vehicle of BossZa) moved wrongly! 0.3723987583636017
-[15:59:11] [Server thread/WARN]: Boat (vehicle of BossZa) moved wrongly! 0.5467405020255001
-[15:59:11] [Server thread/WARN]: Boat (vehicle of BossZa) moved wrongly! 0.74568101872228
-[15:59:11] [Server thread/WARN]: Boat (vehicle of BossZa) moved wrongly! 0.965128011412844
-[15:59:11] [Server thread/WARN]: Boat (vehicle of BossZa) moved wrongly! 1.2017246246656441
-[16:03:21] [Server thread/INFO]: tslop[/49.228.69.28:26723] logged in with entity id 16990 at (-165.06741101220362, 64.0, 65.49369748091917)
-[16:03:21] [Server thread/INFO]: tslop joined the game
-[16:28:46] [Server thread/INFO]: [SongKran_P: Set own game mode to Spectator Mode]
-[16:29:31] [Server thread/INFO]: [SongKran_P: Set own game mode to Survival Mode]
-[16:29:52] [Server thread/INFO]: [SongKran_P: Set own game mode to Spectator Mode]
-[16:30:04] [Server thread/INFO]: [SongKran_P: Set own game mode to Survival Mode]
-[16:30:38] [Server thread/INFO]: [SongKran_P: Set own game mode to Spectator Mode]
-[16:30:58] [Server thread/INFO]: [SongKran_P: Set own game mode to Survival Mode]
-[16:32:55] [Server thread/INFO]: [SongKran_P: Set own game mode to Spectator Mode]
-[16:33:07] [Server thread/INFO]: [SongKran_P: Teleported SongKran_P to 823.500000, 74.000000, 54.500000]
-[16:33:11] [Server thread/INFO]: [SongKran_P: Set own game mode to Survival Mode]
-[16:33:41] [Server thread/INFO]: Winilante[/124.120.10.25:6171] logged in with entity id 44569 at (-289.5, 70.0, 18.5)
-[16:33:41] [Server thread/INFO]: Winilante joined the game
-[16:33:43] [Server thread/WARN]: SongKran_P moved too quickly! 6.681395001032797,1.0013359791121417,-7.668427288823267
-[16:34:21] [Server thread/INFO]: <SongKran_P> Winilante เข้าดิส
-[16:35:15] [Server thread/INFO]: Winilante lost connection: Disconnected
-[16:35:15] [Server thread/INFO]: Winilante left the game
-[16:42:11] [Server thread/INFO]: [SongKran_P: Saved the game]
-[16:43:22] [Server thread/INFO]: Bal4ncez[/171.99.154.21:45449] logged in with entity id 60036 at (876.250597879502, 71.0, 46.39555895699239)
-[16:43:22] [Server thread/INFO]: Bal4ncez joined the game
-[16:58:37] [Server thread/INFO]: SongKran_P has completed the challenge [Bullseye]
-[16:59:18] [Server thread/INFO]: BossZa tried to swim in lava
-[16:59:19] [Server thread/INFO]: Skipping update from removed player 'adj['BossZa'/181, l='ServerLevel[world]', x=858.31, y=65.00, z=3842.64, removed=KILLED]'
-[16:59:21] [Server thread/INFO]: wwaans tried to swim in lava
-[16:59:22] [Server thread/INFO]: Skipping update from removed player 'adj['wwaans'/163, l='ServerLevel[world]', x=858.70, y=65.00, z=3842.30, removed=KILLED]'
-[16:59:49] [Server thread/INFO]: Bal4ncez has completed the challenge [Bullseye]
-[17:10:42] [Server thread/INFO]: Bal4ncez has made the advancement [Is It a Bird?]
-[17:10:55] [Server thread/INFO]: SongKran_P has made the advancement [Is It a Bird?]
-[17:14:45] [Server thread/WARN]: Boat (vehicle of tslop) moved wrongly! 0.3070039273081875
-[17:14:45] [Server thread/WARN]: Boat (vehicle of tslop) moved wrongly! 0.47743862859783803
-[17:14:45] [Server thread/WARN]: Boat (vehicle of tslop) moved wrongly! 0.5984822772187499
-[17:14:45] [Server thread/WARN]: Boat (vehicle of tslop) moved wrongly! 0.9039357026668995
-[17:14:45] [Server thread/WARN]: Boat (vehicle of tslop) moved wrongly! 0.851463076920254
-[17:14:45] [Server thread/WARN]: Boat (vehicle of tslop) moved wrongly! 0.8254761967514241
-[17:19:32] [Server thread/WARN]: wwaans moved too quickly! 10.026272627553567,0.0,-0.2175101373034778
-[17:24:28] [Server thread/INFO]: Shadaann was slain by BossZa using [ไม้ตีหมา]
-[17:24:40] [Server thread/INFO]: BossZa tried to swim in lava
-[17:24:41] [Server thread/INFO]: Skipping update from removed player 'adj['BossZa'/181, l='ServerLevel[world]', x=-1123.60, y=2.00, z=362.30, removed=KILLED]'
-[17:25:03] [Server thread/INFO]: tslop tried to swim in lava
-[17:25:04] [Server thread/INFO]: Skipping update from removed player 'adj['tslop'/16990, l='ServerLevel[world]', x=-1125.09, y=3.00, z=362.22, removed=KILLED]'
-[17:25:50] [Server thread/INFO]: BossZa lost connection: Disconnected
-[17:25:50] [Server thread/INFO]: BossZa left the game
-[17:25:54] [Server thread/INFO]: tslop lost connection: Disconnected
-[17:25:54] [Server thread/INFO]: tslop left the game
-[17:30:01] [Server thread/INFO]: Bal4ncez lost connection: Disconnected
-[17:30:01] [Server thread/INFO]: Bal4ncez left the game
-[17:30:32] [Server thread/INFO]: Shadaann lost connection: Disconnected
-[17:30:32] [Server thread/INFO]: Shadaann left the game
-[17:31:11] [Server thread/INFO]: wwaans has made the advancement [What a Deal!]
-[17:33:34] [Server thread/INFO]: wwaans lost connection: Disconnected
-[17:33:34] [Server thread/INFO]: wwaans left the game
-[17:33:40] [Server thread/INFO]: MeMeow lost connection: Disconnected
-[17:33:40] [Server thread/INFO]: MeMeow left the game
-[17:34:20] [Server thread/INFO]: ZeNosAyumu lost connection: Disconnected
-[17:34:20] [Server thread/INFO]: ZeNosAyumu left the game
-[17:35:13] [Server thread/INFO]: [SongKran_P: Saved the game]
-[17:35:16] [Server thread/INFO]: SongKran_P lost connection: Disconnected
-[17:35:16] [Server thread/INFO]: SongKran_P left the game
-[17:35:36] [Server thread/INFO]: Stopping the server
-[17:35:36] [Server thread/INFO]: Stopping server
-[17:35:36] [Server thread/INFO]: Saving players
-[17:35:36] [Server thread/INFO]: Saving worlds
-[17:35:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17:35:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[17:35:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[17:35:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:35:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:35:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:35:36] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12:08:40] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[12:08:41] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:08:41] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:08:41] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:08:41] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:08:41] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:08:41] [ServerMain/INFO]: Reloading ResourceManager: Default
+[12:08:41] [Worker-Main-4/INFO]: Loaded 7 recipes
+[12:08:42] [Worker-Main-4/INFO]: Loaded 1141 advancements
+[12:08:46] [Server thread/INFO]: Starting minecraft server version 1.18
+[12:08:46] [Server thread/INFO]: Loading properties
+[12:08:46] [Server thread/INFO]: Default game type: SURVIVAL
+[12:08:46] [Server thread/INFO]: Generating keypair
+[12:08:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:08:46] [Server thread/INFO]: Using epoll channel type
+[12:08:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:08:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:08:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:08:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:08:47] [Server thread/INFO]: Preparing level "world"
+[12:08:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:08:49] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[12:08:49] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[12:08:49] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[12:08:49] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[12:08:49] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[12:08:49] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[12:08:50] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[12:08:50] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[12:08:51] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[12:08:51] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[12:08:52] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[12:08:52] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[12:08:53] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[12:08:53] [Worker-Main-4/INFO]: Preparing spawn area: 1%
+[12:08:54] [Worker-Main-4/INFO]: Preparing spawn area: 4%
+[12:08:54] [Worker-Main-4/INFO]: Preparing spawn area: 4%
+[12:08:55] [Worker-Main-5/INFO]: Preparing spawn area: 12%
+[12:08:55] [Worker-Main-6/INFO]: Preparing spawn area: 15%
+[12:08:56] [Worker-Main-6/INFO]: Preparing spawn area: 16%
+[12:08:56] [Worker-Main-6/INFO]: Preparing spawn area: 19%
+[12:08:57] [Worker-Main-6/INFO]: Preparing spawn area: 24%
+[12:08:57] [Worker-Main-6/INFO]: Preparing spawn area: 26%
+[12:08:58] [Worker-Main-6/INFO]: Preparing spawn area: 30%
+[12:08:58] [Worker-Main-6/INFO]: Preparing spawn area: 43%
+[12:08:59] [Worker-Main-4/INFO]: Preparing spawn area: 65%
+[12:08:59] [Worker-Main-6/INFO]: Preparing spawn area: 74%
+[12:09:00] [Worker-Main-4/INFO]: Preparing spawn area: 96%
+[12:09:01] [Server thread/INFO]: Time elapsed: 13951 ms
+[12:09:01] [Server thread/INFO]: Done (14.164s)! For help, type "help"
+[12:09:10] [Server thread/INFO]: BossZa[/115.87.199.184:51964] logged in with entity id 115 at (-559.6636385334136, 69.0, -24.751781009619833)
+[12:09:10] [Server thread/INFO]: BossZa joined the game
+[12:09:11] [Server thread/INFO]: SongKran_P[/27.145.177.49:60448] logged in with entity id 138 at (1264.2745837935834, 70.0, 1406.5351312510977)
+[12:09:11] [Server thread/INFO]: SongKran_P joined the game
+[12:09:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3010ms or 60 ticks behind
+[12:09:24] [Server thread/INFO]: [SongKran_P: Saved the game]
+[12:09:25] [Server thread/INFO]: ZeNosAyumu[/171.6.0.15:58600] logged in with entity id 517 at (1266.0817690838971, 70.0, 1405.8126662048014)
+[12:09:25] [Server thread/INFO]: ZeNosAyumu joined the game
+[12:09:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5305ms or 106 ticks behind
+[12:14:55] [Server thread/INFO]: Shadaann[/124.122.67.75:62456] logged in with entity id 5934 at (67.69999998807907, 63.0, 101.30000001192093)
+[12:14:55] [Server thread/INFO]: Shadaann joined the game
+[12:23:37] [Server thread/INFO]: ZeNosAyumu has made the advancement [Suit Up]
+[12:33:24] [Server thread/INFO]: Shadaann drowned
+[12:53:04] [Server thread/INFO]: Shadaann lost connection: Disconnected
+[12:53:04] [Server thread/INFO]: Shadaann left the game
+[13:00:37] [Server thread/INFO]: Bal4ncez[/171.99.154.21:49395] logged in with entity id 40494 at (826.3972071939088, 71.0, 57.143696032353084)
+[13:00:37] [Server thread/INFO]: Bal4ncez joined the game
+[13:03:37] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-560, y=65, z=-26} gh{x=-561, y=64, z=-26}
+[13:04:14] [Server thread/INFO]: tslop[/49.228.69.28:32039] logged in with entity id 43764 at (-158.5354138270147, 36.0, 69.79286054948751)
+[13:04:14] [Server thread/INFO]: tslop joined the game
+[13:15:20] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-2555, y=35, z=2043} gh{x=-2555, y=34, z=2042}
+[13:15:50] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-2550, y=34, z=2030} gh{x=-2549, y=34, z=2032}
+[13:16:11] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-2554, y=34, z=2035} gh{x=-2554, y=35, z=2035}
+[13:16:11] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-2554, y=34, z=2035} gh{x=-2554, y=35, z=2035}
+[13:20:37] [Server thread/WARN]: SongKran_P moved too quickly! -10.211497966245588,0.504799122994072,0.9887895922352072
+[13:26:55] [Server thread/INFO]: wwaans[/58.8.249.233:59025] logged in with entity id 66404 at (-538.2380101971922, 64.0, -2.527853996513356)
+[13:26:55] [Server thread/INFO]: wwaans joined the game
+[13:35:06] [Server thread/INFO]: MeMeow[/110.169.129.28:10493] logged in with entity id 74698 at (1086.300000011921, 62.0, -46.69999998807907)
+[13:35:06] [Server thread/INFO]: MeMeow joined the game
+[13:35:54] [Server thread/WARN]: Boat (vehicle of MeMeow) moved wrongly! 0.3716933149369197
+[13:35:54] [Server thread/WARN]: Boat (vehicle of MeMeow) moved wrongly! 0.5505033607389578
+[13:35:54] [Server thread/WARN]: Boat (vehicle of MeMeow) moved wrongly! 0.7064323962188155
+[13:35:54] [Server thread/WARN]: Boat (vehicle of MeMeow) moved wrongly! 0.8917685240371611
+[13:35:54] [Server thread/WARN]: Boat (vehicle of MeMeow) moved wrongly! 1.0585710346515498
+[13:39:09] [Server thread/INFO]: Skeletonbear[/49.49.239.33:52786] logged in with entity id 80182 at (-548.1993179189706, 63.0, -19.774380124731486)
+[13:39:09] [Server thread/INFO]: Skeletonbear joined the game
+[13:45:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[13:47:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[13:49:39] [Server thread/INFO]: <Skeletonbear> อ่าน
+[13:51:29] [Server thread/INFO]: [SongKran_P: Saved the game]
+[13:53:01] [Server thread/INFO]: [SongKran_P: Successfully filled 99 blocks]
+[13:53:03] [Server thread/INFO]: [SongKran_P: Successfully filled 59 blocks]
+[13:53:04] [Server thread/INFO]: [SongKran_P: Successfully filled 17 blocks]
+[13:53:06] [Server thread/INFO]: [SongKran_P: Successfully filled 2 blocks]
+[13:53:07] [Server thread/WARN]: Boat (vehicle of MeMeow) moved wrongly! 0.8866332273582884
+[13:53:07] [Server thread/WARN]: Boat (vehicle of MeMeow) moved wrongly! 0.5743893895912606
+[13:53:07] [Server thread/WARN]: Boat (vehicle of MeMeow) moved wrongly! 0.28507770761143547
+[13:53:29] [Server thread/INFO]: [SongKran_P: Successfully filled 41 blocks]
+[13:53:30] [Server thread/INFO]: [SongKran_P: Successfully filled 11 blocks]
+[13:53:32] [Server thread/INFO]: [SongKran_P: Successfully filled 8 blocks]
+[13:53:38] [Server thread/INFO]: Skeletonbear lost connection: Disconnected
+[13:53:38] [Server thread/INFO]: Skeletonbear left the game
+[14:08:18] [Server thread/INFO]: [SongKran_P: Summoned new Bat]
+[14:08:51] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-516, y=72, z=77} gh{x=-517, y=71, z=79}
+[14:08:51] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-516, y=72, z=77} gh{x=-517, y=71, z=79}
+[14:09:09] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-523, y=73, z=78} gh{x=-523, y=71, z=75}
+[14:09:09] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-523, y=73, z=78} gh{x=-523, y=71, z=75}
+[14:09:09] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-523, y=73, z=78} gh{x=-523, y=71, z=75}
+[14:09:09] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-523, y=73, z=78} gh{x=-523, y=71, z=75}
+[14:09:09] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-523, y=73, z=78} gh{x=-523, y=71, z=75}
+[14:09:09] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-523, y=73, z=78} gh{x=-523, y=71, z=75}
+[14:09:09] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-523, y=73, z=78} gh{x=-523, y=71, z=75}
+[14:09:09] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-521, y=73, z=76} gh{x=-523, y=71, z=75}
+[14:10:33] [Server thread/INFO]: [SongKran_P: Summoned new Creeper]
+[14:11:18] [Server thread/INFO]: [SongKran_P: Summoned new Creeper]
+[14:11:19] [Server thread/INFO]: [SongKran_P: Summoned new Creeper]
+[14:11:19] [Server thread/INFO]: [SongKran_P: Summoned new Creeper]
+[14:11:20] [Server thread/INFO]: [SongKran_P: Summoned new Creeper]
+[14:11:21] [Server thread/INFO]: [SongKran_P: Summoned new Creeper]
+[14:11:55] [Server thread/INFO]: [SongKran_P: Summoned new Spider]
+[14:14:36] [Server thread/INFO]: [SongKran_P: Summoned new Creeper]
+[14:20:33] [Server thread/INFO]: [SongKran_P: Summoned new Creeper]
+[14:20:34] [Server thread/INFO]: [SongKran_P: Summoned new Creeper]
+[14:20:35] [Server thread/INFO]: [SongKran_P: Summoned new Creeper]
+[14:20:56] [Server thread/INFO]: [SongKran_P: Summoned new Creeper]
+[14:20:57] [Server thread/INFO]: [SongKran_P: Summoned new Creeper]
+[14:20:58] [Server thread/INFO]: [SongKran_P: Summoned new Creeper]
+[14:20:59] [Server thread/INFO]: [SongKran_P: Summoned new Creeper]
+[14:21:16] [Server thread/INFO]: Shadaann[/49.49.246.162:53370] logged in with entity id 118264 at (-524.4520683597972, 70.0, -9.134947958192656)
+[14:21:16] [Server thread/INFO]: Shadaann joined the game
+[14:24:29] [Server thread/INFO]: [SongKran_P: Summoned new Spider]
+[14:30:44] [Server thread/INFO]: [SongKran_P: The difficulty has been set to Hard]
+[14:31:41] [Server thread/INFO]: [SongKran_P: The difficulty has been set to Easy]
+[14:31:58] [Server thread/INFO]: [SongKran_P: Summoned new Spider]
+[14:40:25] [Server thread/INFO]: [SongKran_P: Summoned new Enderman]
+[14:40:41] [Server thread/INFO]: [SongKran_P: Summoned new Zombie]
+[14:41:25] [Server thread/INFO]: [SongKran_P: Summoned new Lightning Bolt]
+[14:42:01] [Server thread/INFO]: [SongKran_P: Summoned new Skeleton]
+[14:42:15] [Server thread/INFO]: Shadaann has made the advancement [Enchanter]
+[14:43:03] [Server thread/INFO]: [SongKran_P: Summoned new Drowned]
+[14:51:42] [Server thread/INFO]: tslop lost connection: Disconnected
+[14:51:42] [Server thread/INFO]: tslop left the game
+[14:54:18] [Server thread/INFO]: SongKran_P has made the advancement [Spooky Scary Skeleton]
+[14:59:06] [Server thread/WARN]: Boat (vehicle of MeMeow) moved wrongly! 0.31235294375665035
+[14:59:06] [Server thread/WARN]: Boat (vehicle of MeMeow) moved wrongly! 0.31235294375665035
+[14:59:06] [Server thread/WARN]: Boat (vehicle of MeMeow) moved wrongly! 0.31235294375665035
+[14:59:06] [Server thread/WARN]: Boat (vehicle of MeMeow) moved wrongly! 0.31235294375665035
+[15:03:57] [Server thread/INFO]: BossZa has made the advancement [Take Aim]
+[15:18:54] [Server thread/INFO]: <Bal4ncez> 84 49 -110
+[15:19:38] [Server thread/INFO]: <MeMeow> 22 56 175
+[15:23:59] [Server thread/INFO]: tslop[/49.228.69.28:34830] logged in with entity id 165384 at (-161.21256553988255, 60.5, 77.0202018414289)
+[15:23:59] [Server thread/INFO]: tslop joined the game
+[15:25:50] [Server thread/INFO]: Bal4ncez has made the advancement [Is It a Balloon?]
+[15:33:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[15:36:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[15:40:26] [Server thread/INFO]: Bal4ncez has made the advancement [This Boat Has Legs]
+[15:45:34] [Server thread/WARN]: Tepig (vehicle of Bal4ncez) moved wrongly! 2.7454023515671224
+[15:45:34] [Server thread/WARN]: Tepig (vehicle of Bal4ncez) moved wrongly! 2.7200191873621407
+[15:45:34] [Server thread/WARN]: Tepig (vehicle of Bal4ncez) moved wrongly! 2.692442217312305
+[15:45:34] [Server thread/WARN]: Tepig (vehicle of Bal4ncez) moved wrongly! 2.6632943956398094
+[15:45:34] [Server thread/WARN]: Tepig (vehicle of Bal4ncez) moved wrongly! 2.6056095429377137
+[15:45:34] [Server thread/WARN]: Tepig (vehicle of Bal4ncez) moved wrongly! 2.5434829553435065
+[15:49:35] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1084, y=61, z=-65} gh{x=1084, y=62, z=-65}
+[15:53:10] [Server thread/INFO]: Bal4ncez lost connection: Timed out
+[15:53:10] [Server thread/INFO]: Bal4ncez left the game
+[15:53:10] [Server thread/WARN]: handleDisconnection() called twice
+[15:53:22] [Server thread/INFO]: Bal4ncez[/58.8.153.1:62824] logged in with entity id 192337 at (-75.03802689994005, 37.0, -494.24389363026495)
+[15:53:22] [Server thread/INFO]: Bal4ncez joined the game
+[15:53:30] [Server thread/INFO]: Bal4ncez has made the advancement [Ol' Betsy]
+[15:54:15] [Server thread/INFO]: <SongKran_P> 84 49 -110
+[15:56:24] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-259, y=42, z=-764} gh{x=-260, y=43, z=-764}
+[16:01:49] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-585, y=59, z=-30} gh{x=-585, y=60, z=-30}
+[16:01:59] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-583, y=61, z=-29} gh{x=-583, y=59, z=-30}
+[16:03:57] [Server thread/INFO]: SongKran_P has made the advancement [Withering Heights]
+[16:03:57] [Server thread/INFO]: ZeNosAyumu has made the advancement [Withering Heights]
+[16:04:39] [Server thread/INFO]: Skeletonbear[/49.49.239.33:56458] logged in with entity id 199415 at (-527.3107243728758, 64.0, -3.398277243279783)
+[16:04:39] [Server thread/INFO]: Skeletonbear joined the game
+[16:07:39] [Server thread/WARN]: Tepig (vehicle of Bal4ncez) moved wrongly! 2.093776847247682
+[16:07:39] [Server thread/WARN]: Tepig (vehicle of Bal4ncez) moved wrongly! 2.1469177991650668
+[16:07:39] [Server thread/WARN]: Tepig (vehicle of Bal4ncez) moved wrongly! 2.2051359395399572
+[16:07:39] [Server thread/WARN]: Tepig (vehicle of Bal4ncez) moved wrongly! 2.2734594806240125
+[16:07:39] [Server thread/WARN]: Tepig (vehicle of Bal4ncez) moved wrongly! 2.3507950183201842
+[16:07:39] [Server thread/WARN]: Tepig (vehicle of Bal4ncez) moved wrongly! 2.436167454826716
+[16:24:37] [Server thread/INFO]: tslop lost connection: Disconnected
+[16:24:37] [Server thread/INFO]: tslop left the game
+[16:25:03] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=808, y=73, z=78} gh{x=808, y=72, z=78}
+[16:25:03] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=808, y=73, z=78} gh{x=808, y=72, z=78}
+[16:25:03] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=808, y=73, z=78} gh{x=808, y=72, z=78}
+[16:28:01] [Server thread/INFO]: tslop[/49.228.69.28:35389] logged in with entity id 218419 at (-555.7735768506127, 52.0, -11.330942500661084)
+[16:28:01] [Server thread/INFO]: tslop joined the game
+[16:31:06] [Server thread/INFO]: Skeletonbear lost connection: Disconnected
+[16:31:06] [Server thread/INFO]: Skeletonbear left the game
+[16:31:10] [Server thread/INFO]: wwaans lost connection: Disconnected
+[16:31:10] [Server thread/INFO]: wwaans left the game
+[16:37:39] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-165, y=63, z=68} gh{x=-165, y=62, z=67}
+[16:49:12] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-630, y=65, z=-35} gh{x=-630, y=64, z=-36}
+[16:50:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[16:53:18] [Server thread/INFO]: Shadaann lost connection: Disconnected
+[16:53:18] [Server thread/INFO]: Shadaann left the game
+[16:53:48] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-181, y=65, z=44} gh{x=-181, y=64, z=43}
+[16:53:55] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-182, y=68, z=21} gh{x=-182, y=67, z=22}
+[16:56:00] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=-200, y=69, z=4} gh{x=-200, y=68, z=5}
+[17:02:04] [Server thread/INFO]: [SongKran_P: Showing new actionbar title for 6 players]
+[17:02:31] [Server thread/INFO]: Bal4ncez lost connection: Disconnected
+[17:02:31] [Server thread/INFO]: Bal4ncez left the game
+[17:03:27] [Server thread/INFO]: [SongKran_P: Showing new title for 5 players]
+[17:15:31] [Server thread/INFO]: [SongKran_P: Showing new title for 5 players]
+[17:20:40] [Server thread/INFO]: BossZa lost connection: Disconnected
+[17:20:40] [Server thread/INFO]: BossZa left the game
+[17:21:05] [Server thread/INFO]: [SongKran_P: Summoned new Lightning Bolt]
+[17:21:06] [Server thread/INFO]: tslop has made the advancement [Surge Protector]
+[17:21:27] [Server thread/INFO]: [SongKran_P: Summoned new Lightning Bolt]
+[17:21:33] [Server thread/INFO]: ZeNosAyumu lost connection: Disconnected
+[17:21:33] [Server thread/INFO]: ZeNosAyumu left the game
+[17:21:33] [Server thread/WARN]: handleDisconnection() called twice
+[17:23:37] [Server thread/INFO]: tslop lost connection: Disconnected
+[17:23:37] [Server thread/INFO]: tslop left the game
+[17:25:52] [Server thread/INFO]: [SongKran_P: Showing new title for 2 players]
+[17:26:22] [Server thread/INFO]: MeMeow lost connection: Disconnected
+[17:26:22] [Server thread/INFO]: MeMeow left the game
+[17:26:40] [Server thread/INFO]: [SongKran_P: Saved the game]
+[17:26:51] [Server thread/INFO]: [SongKran_P: Saved the game]
+[17:26:57] [Server thread/INFO]: [SongKran_P: Stopping the server]
+[17:26:57] [Server thread/INFO]: Stopping server
+[17:26:57] [Server thread/INFO]: Saving players
+[17:26:57] [Server thread/INFO]: Saving worlds
+[17:26:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:26:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17:26:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17:26:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:26:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:26:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:26:58] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
