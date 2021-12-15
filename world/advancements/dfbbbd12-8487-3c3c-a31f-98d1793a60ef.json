@@ -395,6 +395,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2021-12-15 10:21:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2021-12-11 14:30:27 +0000"
@@ -617,6 +623,8 @@
       "minecraft:spider": "2021-12-09 13:30:34 +0000",
       "minecraft:creeper": "2021-12-12 08:29:17 +0000",
       "minecraft:slime": "2021-12-10 08:45:16 +0000",
+      "minecraft:phantom": "2021-12-15 13:56:00 +0000",
+      "minecraft:zombified_piglin": "2021-12-15 13:40:42 +0000",
       "minecraft:husk": "2021-12-12 08:27:20 +0000",
       "minecraft:cave_spider": "2021-12-12 11:16:28 +0000",
       "minecraft:enderman": "2021-12-12 09:33:36 +0000",
@@ -1018,6 +1026,12 @@
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2021-12-09 14:00:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2021-12-15 10:21:26 +0000"
     },
     "done": true
   },
@@ -1597,9 +1611,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2021-12-15 10:21:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sniper_duel": {
     "criteria": {
       "killed_skeleton": "2021-12-13 14:02:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2021-12-15 10:44:55 +0000"
     },
     "done": true
   },
@@ -1817,6 +1843,7 @@
       "rotten_flesh": "2021-12-09 13:33:18 +0000",
       "cookie": "2021-12-14 15:45:13 +0000",
       "glow_berries": "2021-12-12 16:28:01 +0000",
+      "salmon": "2021-12-15 10:42:10 +0000",
       "melon_slice": "2021-12-13 07:22:50 +0000",
       "cooked_chicken": "2021-12-10 08:49:16 +0000",
       "mushroom_stew": "2021-12-10 13:22:13 +0000",
@@ -2010,6 +2037,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2021-12-09 13:05:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2021-12-15 10:44:55 +0000"
     },
     "done": true
   },
@@ -2304,6 +2337,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2021-12-09 13:00:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2021-12-15 10:28:36 +0000"
     },
     "done": true
   },
@@ -2736,6 +2775,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2021-12-11 05:38:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2021-12-15 10:28:36 +0000"
     },
     "done": true
   },

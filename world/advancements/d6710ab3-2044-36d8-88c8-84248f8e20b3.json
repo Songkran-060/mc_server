@@ -461,6 +461,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_green_dye": "2021-12-15 11:22:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2021-12-10 03:50:32 +0000"
@@ -772,6 +778,7 @@
       "minecraft:slime": "2021-12-11 13:45:32 +0000",
       "minecraft:phantom": "2021-12-12 16:14:38 +0000",
       "minecraft:wither_skeleton": "2021-12-10 10:45:05 +0000",
+      "minecraft:husk": "2021-12-15 10:34:45 +0000",
       "minecraft:zombie": "2021-12-10 02:29:41 +0000",
       "minecraft:drowned": "2021-12-12 10:28:19 +0000",
       "minecraft:zombie_villager": "2021-12-10 03:22:27 +0000"
@@ -1009,6 +1016,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2021-12-10 03:15:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_green_dye": "2021-12-15 11:22:50 +0000"
     },
     "done": true
   },
@@ -2193,6 +2206,7 @@
       "cooked_mutton": "2021-12-10 02:34:30 +0000",
       "cooked_beef": "2021-12-10 10:39:00 +0000",
       "apple": "2021-12-10 03:28:17 +0000",
+      "cooked_cod": "2021-12-15 09:42:33 +0000",
       "mutton": "2021-12-10 02:36:28 +0000",
       "bread": "2021-12-10 07:14:02 +0000",
       "rotten_flesh": "2021-12-10 03:52:47 +0000",
@@ -2300,6 +2314,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-12-10 08:12:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_green_dye": "2021-12-15 11:22:50 +0000"
     },
     "done": true
   },
@@ -2828,6 +2848,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
+    "criteria": {
+      "has_green_dye": "2021-12-15 11:22:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2021-12-10 16:55:34 +0000"
@@ -3167,6 +3193,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2021-12-10 02:27:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_candle": {
+    "criteria": {
+      "has_green_dye": "2021-12-15 11:22:50 +0000"
     },
     "done": true
   },
