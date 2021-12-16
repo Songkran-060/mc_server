@@ -625,6 +625,7 @@
       "minecraft:slime": "2021-12-10 08:45:16 +0000",
       "minecraft:phantom": "2021-12-15 13:56:00 +0000",
       "minecraft:zombified_piglin": "2021-12-15 13:40:42 +0000",
+      "minecraft:witch": "2021-12-16 07:20:46 +0000",
       "minecraft:husk": "2021-12-12 08:27:20 +0000",
       "minecraft:cave_spider": "2021-12-12 11:16:28 +0000",
       "minecraft:enderman": "2021-12-12 09:33:36 +0000",
@@ -642,6 +643,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2021-12-10 09:00:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2021-12-16 07:20:57 +0000"
     },
     "done": true
   },
@@ -1250,15 +1257,18 @@
       "minecraft:old_growth_pine_taiga": "2021-12-10 13:17:30 +0000",
       "minecraft:taiga": "2021-12-10 13:14:15 +0000",
       "minecraft:deep_ocean": "2021-12-10 12:50:19 +0000",
+      "minecraft:birch_forest": "2021-12-16 13:11:24 +0000",
       "minecraft:wooded_badlands": "2021-12-11 10:33:12 +0000",
       "minecraft:bamboo_jungle": "2021-12-11 10:31:44 +0000",
       "minecraft:badlands": "2021-12-11 10:34:21 +0000",
       "minecraft:beach": "2021-12-09 12:58:17 +0000",
+      "minecraft:dark_forest": "2021-12-16 13:08:17 +0000",
       "minecraft:sparse_jungle": "2021-12-11 10:22:24 +0000",
       "minecraft:river": "2021-12-09 13:00:59 +0000",
       "minecraft:lukewarm_ocean": "2021-12-10 17:41:54 +0000",
       "minecraft:stony_shore": "2021-12-12 06:10:10 +0000",
       "minecraft:swamp": "2021-12-13 16:09:50 +0000",
+      "minecraft:grove": "2021-12-16 13:54:45 +0000",
       "minecraft:cold_ocean": "2021-12-10 12:58:18 +0000",
       "minecraft:forest": "2021-12-09 12:38:19 +0000",
       "minecraft:lush_caves": "2021-12-10 14:05:46 +0000",
@@ -1269,10 +1279,13 @@
       "minecraft:ocean": "2021-12-09 13:36:27 +0000",
       "minecraft:jungle": "2021-12-10 09:01:44 +0000",
       "minecraft:old_growth_spruce_taiga": "2021-12-10 12:56:04 +0000",
+      "minecraft:windswept_savanna": "2021-12-16 13:13:00 +0000",
       "minecraft:warm_ocean": "2021-12-12 06:09:16 +0000",
       "minecraft:deep_lukewarm_ocean": "2021-12-12 14:23:46 +0000",
       "minecraft:flower_forest": "2021-12-13 16:06:24 +0000",
+      "minecraft:frozen_peaks": "2021-12-16 13:57:32 +0000",
       "minecraft:old_growth_birch_forest": "2021-12-09 12:45:32 +0000",
+      "minecraft:meadow": "2021-12-16 13:54:00 +0000",
       "minecraft:savanna": "2021-12-13 16:42:28 +0000",
       "minecraft:plains": "2021-12-09 13:55:37 +0000"
     },
@@ -1834,6 +1847,7 @@
       "sweet_berries": "2021-12-10 13:40:22 +0000",
       "cooked_beef": "2021-12-10 15:03:46 +0000",
       "beef": "2021-12-09 14:11:34 +0000",
+      "baked_potato": "2021-12-16 09:53:51 +0000",
       "porkchop": "2021-12-09 14:09:59 +0000",
       "apple": "2021-12-10 11:47:26 +0000",
       "spider_eye": "2021-12-14 11:30:20 +0000",
@@ -1904,6 +1918,12 @@
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2021-12-10 09:09:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2021-12-16 07:20:57 +0000"
     },
     "done": true
   },
@@ -2017,6 +2037,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:pig": "2021-12-16 06:12:50 +0000",
       "minecraft:cow": "2021-12-13 08:52:33 +0000",
       "minecraft:axolotl": "2021-12-10 17:45:18 +0000"
     },
@@ -2118,6 +2139,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2021-12-16 07:20:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2021-12-09 13:00:59 +0000"
@@ -2205,6 +2232,12 @@
   "minecraft:recipes/redstone/crimson_trapdoor": {
     "criteria": {
       "has_planks": "2021-12-11 05:52:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2021-12-16 07:20:57 +0000"
     },
     "done": true
   },
@@ -2670,6 +2703,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2021-12-16 07:20:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_rabbit": "2021-12-12 06:14:57 +0000"
@@ -2679,6 +2718,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2021-12-09 14:00:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2021-12-16 07:20:57 +0000"
     },
     "done": true
   },
@@ -2859,6 +2904,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2021-12-13 17:28:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2021-12-16 07:20:57 +0000"
     },
     "done": true
   },

@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-12-16 10:11:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_bricks": "2021-12-10 11:49:18 +0000"
@@ -533,6 +539,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2021-12-16 13:03:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2021-12-11 02:37:03 +0000"
@@ -674,6 +686,12 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2021-12-11 02:37:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-12-16 10:11:16 +0000"
     },
     "done": true
   },
@@ -829,6 +847,7 @@
       "minecraft:cave_spider": "2021-12-11 04:27:09 +0000",
       "minecraft:piglin": "2021-12-10 11:41:13 +0000",
       "minecraft:enderman": "2021-12-10 11:13:55 +0000",
+      "minecraft:stray": "2021-12-16 04:53:56 +0000",
       "minecraft:zombie": "2021-12-09 13:29:48 +0000",
       "minecraft:drowned": "2021-12-09 14:14:18 +0000",
       "minecraft:zombie_villager": "2021-12-10 13:37:27 +0000"
@@ -892,6 +911,12 @@
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2021-12-09 13:22:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-12-16 10:11:16 +0000"
     },
     "done": true
   },
@@ -1093,6 +1118,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-12-16 10:11:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2021-12-10 03:26:23 +0000"
@@ -1219,15 +1250,33 @@
     },
     "done": true
   },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2021-12-16 13:04:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
     "criteria": {
       "has_light_gray_terracotta": "2021-12-15 05:56:40 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2021-12-16 04:22:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/spyglass_at_parrot": {
     "criteria": {
       "spyglass_at_parrot": "2021-12-13 17:10:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-12-16 10:11:16 +0000"
     },
     "done": true
   },
@@ -1659,10 +1708,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2021-12-16 05:26:45 +0000",
       "minecraft:old_growth_pine_taiga": "2021-12-10 13:46:34 +0000",
       "minecraft:mushroom_fields": "2021-12-14 13:16:48 +0000",
       "minecraft:taiga": "2021-12-10 13:51:05 +0000",
       "minecraft:deep_ocean": "2021-12-09 14:12:19 +0000",
+      "minecraft:frozen_river": "2021-12-16 04:52:53 +0000",
       "minecraft:sunflower_plains": "2021-12-15 07:13:54 +0000",
       "minecraft:birch_forest": "2021-12-14 12:26:52 +0000",
       "minecraft:windswept_hills": "2021-12-15 07:13:16 +0000",
@@ -1675,7 +1726,9 @@
       "minecraft:river": "2021-12-09 11:19:44 +0000",
       "minecraft:lukewarm_ocean": "2021-12-10 13:23:42 +0000",
       "minecraft:stony_shore": "2021-12-10 03:09:55 +0000",
+      "minecraft:snowy_plains": "2021-12-16 04:53:31 +0000",
       "minecraft:dripstone_caves": "2021-12-10 06:40:17 +0000",
+      "minecraft:snowy_taiga": "2021-12-16 04:51:24 +0000",
       "minecraft:swamp": "2021-12-14 12:07:52 +0000",
       "minecraft:cold_ocean": "2021-12-09 14:06:44 +0000",
       "minecraft:forest": "2021-12-09 04:25:29 +0000",
@@ -1685,14 +1738,18 @@
       "minecraft:frozen_ocean": "2021-12-10 14:01:27 +0000",
       "minecraft:desert": "2021-12-10 02:52:39 +0000",
       "minecraft:deep_frozen_ocean": "2021-12-10 13:53:58 +0000",
+      "minecraft:windswept_forest": "2021-12-16 04:47:58 +0000",
       "minecraft:ocean": "2021-12-09 11:19:43 +0000",
       "minecraft:jungle": "2021-12-10 02:35:26 +0000",
       "minecraft:old_growth_spruce_taiga": "2021-12-10 13:46:28 +0000",
+      "minecraft:snowy_beach": "2021-12-16 04:54:25 +0000",
       "minecraft:windswept_savanna": "2021-12-14 12:10:44 +0000",
       "minecraft:warm_ocean": "2021-12-10 08:48:56 +0000",
       "minecraft:deep_lukewarm_ocean": "2021-12-11 16:03:35 +0000",
       "minecraft:flower_forest": "2021-12-15 07:11:19 +0000",
+      "minecraft:frozen_peaks": "2021-12-16 05:24:34 +0000",
       "minecraft:old_growth_birch_forest": "2021-12-09 14:10:49 +0000",
+      "minecraft:meadow": "2021-12-16 05:31:24 +0000",
       "minecraft:savanna": "2021-12-10 13:38:24 +0000",
       "minecraft:plains": "2021-12-09 13:21:33 +0000"
     },
@@ -1818,6 +1875,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-12-16 10:11:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2021-12-16 14:16:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2021-12-09 12:45:55 +0000"
@@ -1908,6 +1977,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-12-16 10:11:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
     "criteria": {
       "has_iron_ore": "2021-12-11 03:49:23 +0000"
@@ -1981,6 +2056,12 @@
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2021-12-09 13:53:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-12-16 10:11:16 +0000"
     },
     "done": true
   },
@@ -2332,6 +2413,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2021-12-16 13:04:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/packed_ice": {
     "criteria": {
       "has_ice": "2021-12-10 14:01:25 +0000"
@@ -2450,6 +2537,7 @@
     "criteria": {
       "cooked_porkchop": "2021-12-09 12:56:48 +0000",
       "cooked_mutton": "2021-12-10 06:23:47 +0000",
+      "sweet_berries": "2021-12-16 04:52:04 +0000",
       "cooked_beef": "2021-12-10 02:38:48 +0000",
       "beef": "2021-12-09 14:11:06 +0000",
       "baked_potato": "2021-12-10 14:01:02 +0000",
@@ -2584,6 +2672,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-12-10 07:55:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-12-16 10:11:16 +0000"
     },
     "done": true
   },
@@ -3093,9 +3187,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-12-16 10:11:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/spyglass_at_ghast": {
     "criteria": {
       "spyglass_at_ghast": "2021-12-15 04:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-12-16 10:11:16 +0000"
     },
     "done": true
   },
@@ -3174,6 +3280,12 @@
   "minecraft:recipes/decorations/soul_lantern": {
     "criteria": {
       "has_soul_torch": "2021-12-11 13:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2021-12-16 05:29:46 +0000"
     },
     "done": true
   },
@@ -3456,6 +3568,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2021-12-09 12:45:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2021-12-16 07:45:11 +0000"
     },
     "done": true
   },
@@ -3807,6 +3925,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2021-12-16 05:29:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/loot_bastion": {
     "criteria": {
       "loot_bastion_treasure": "2021-12-10 11:39:09 +0000"
@@ -4008,6 +4132,18 @@
   "minecraft:recipes/redstone/warped_door": {
     "criteria": {
       "has_planks": "2021-12-11 13:04:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-12-16 10:11:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-12-16 10:11:16 +0000"
     },
     "done": true
   },
